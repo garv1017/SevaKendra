@@ -1,1 +1,3 @@
-# Instill-Project
+# Seva Kendra 
+
+Project created for TECHNORAX Hackathon
